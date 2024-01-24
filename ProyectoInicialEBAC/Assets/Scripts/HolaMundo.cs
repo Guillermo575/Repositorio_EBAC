@@ -1,17 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class HolaMundo : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Esta es una impresion de consola usando el metodo Debug.Log()");
+        Debug.LogWarning("Esta es una impresion de consola usando el metodo Debug.LogWarning()");
+        Debug.LogError("Esta es una impresion de consola usando el metodo Debug.LogError()");
     }
-
-    // Update is called once per frame
     void Update()
     {
-        
     }
 }
