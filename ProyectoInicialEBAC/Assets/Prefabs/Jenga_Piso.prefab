@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8231201289760628759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1867684516847606842}
+  m_Layer: 0
+  m_Name: Jenga_Piso
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1867684516847606842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8231201289760628759}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2960066484617258051}
+  - {fileID: 4344908741020050941}
+  - {fileID: 4208190536115953913}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &573406029833695882
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1867684516847606842}
+    m_Modifications:
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7461039058944454354, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_Name
+      value: Pieza_Jenga_Cafe
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+--- !u!4 &2960066484617258051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+  m_PrefabInstance: {fileID: 573406029833695882}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1479185675804833328
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1867684516847606842}
+    m_Modifications:
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7461039058944454354, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+      propertyPath: m_Name
+      value: Pieza_Jenga_Cafe (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+--- !u!4 &4208190536115953913 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3378088362981938889, guid: 3fbff2819329aff49a9bcdddfcea9454, type: 3}
+  m_PrefabInstance: {fileID: 1479185675804833328}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5837753134200458660
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1867684516847606842}
+    m_Modifications:
+    - target: {fileID: 555822225953914787, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_Name
+      value: Pieza_Jenga_Amarillo
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+--- !u!4 &4344908741020050941 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7876772596040886361, guid: b9b06728dcf087844b8beafce233dcc5, type: 3}
+  m_PrefabInstance: {fileID: 5837753134200458660}
+  m_PrefabAsset: {fileID: 0}
