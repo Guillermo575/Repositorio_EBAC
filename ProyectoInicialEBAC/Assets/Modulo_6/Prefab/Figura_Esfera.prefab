@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5295151011056262445}
   - component: {fileID: 8080242428728221077}
   - component: {fileID: 4924138919398034818}
+  - component: {fileID: 1887742926581493722}
   m_Layer: 0
   m_Name: Figura_Esfera
   m_TagString: Untagged
@@ -118,3 +119,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10e1caec5e490ec478ab0aad3facee8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1887742926581493722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8006752569104253485}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f464bb7eb13dedf4f93a3e9dd7288ed3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Variable: 0

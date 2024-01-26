@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2753578485871308265}
   - component: {fileID: 6183905576570602624}
   - component: {fileID: 1829107575010483337}
+  - component: {fileID: 5062655154350123496}
   m_Layer: 0
   m_Name: Figura_Cubo
   m_TagString: Untagged
@@ -118,3 +119,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2900a7627ccb5c40ac5a1051b6376d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &5062655154350123496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4933042466851446649}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f464bb7eb13dedf4f93a3e9dd7288ed3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Variable: 0
