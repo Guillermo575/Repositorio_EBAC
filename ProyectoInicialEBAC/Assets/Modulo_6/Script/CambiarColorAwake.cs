@@ -9,4 +9,7 @@ public class CambiarColorAwake : MonoBehaviour
         this.gameObject.GetComponent<MeshRenderer>().material.color = c;
         Debug.Log("Se cambio el color con Awake()");
     }
+    void Update()
+    {
+    }
 }
