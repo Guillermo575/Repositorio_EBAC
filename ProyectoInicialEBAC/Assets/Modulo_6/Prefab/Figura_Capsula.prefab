@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 8921244457376257615}
   - component: {fileID: 3809871906007186416}
   - component: {fileID: 749329684725701861}
+  - component: {fileID: 5078952893093259171}
+  - component: {fileID: 5865737810084071467}
   m_Layer: 0
   m_Name: Figura_Capsula
   m_TagString: Untagged
@@ -120,3 +122,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 492b4a8a3f9a07a4391f460e43bec8aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &5078952893093259171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4564859516900749522}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59b6e8beab1e9c4c8d5f16bb3ffba66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Objeto1: {fileID: 0}
+  Objeto2: {fileID: 0}
+--- !u!114 &5865737810084071467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4564859516900749522}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b3afddfcb7909d4c952a4cd935aeee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Objeto1: {fileID: 0}
+  Objeto2: {fileID: 0}
