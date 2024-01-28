@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3691299935101469618}
   - component: {fileID: 2753578485871308265}
   - component: {fileID: 6183905576570602624}
+  - component: {fileID: 4163755472036377048}
   m_Layer: 0
   m_Name: Figura_Cubo_Clon
   m_TagString: Untagged
@@ -105,3 +106,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4163755472036377048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4933042466851446649}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e4b6a1478297d24ea85e313fa903fbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IntUpdate: 0
+  FloatFixedUpdate: 0
