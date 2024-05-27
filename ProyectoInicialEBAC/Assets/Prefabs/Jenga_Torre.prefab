@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7399308637233847594}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Jenga_Torre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85,9 +85,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -147,9 +163,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -209,9 +241,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -271,9 +319,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -333,9 +397,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -395,9 +475,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6248024118618157575, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6953499281772715096, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
       propertyPath: m_Name
       value: Piso_Jenga (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8231201289760628759, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8290547430836115682, guid: a17eb32d564fe1848aadeb519507662d, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
